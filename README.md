@@ -1,4 +1,9 @@
 # Runner
-cc c'est moi :)
+touche:
+  d : droite
+  q : gauche
+  z : haut
+  s : bas
+  e: capaciter
 
 
